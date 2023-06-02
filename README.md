@@ -6,8 +6,7 @@ Library for svelte based projects of ready-to-go UI components. Majority of this
 
 ### Layout
 
- - VStack
- - HStack
+ - Stack
  - Grid
  - Masonry
  - Box
@@ -37,6 +36,7 @@ Library for svelte based projects of ready-to-go UI components. Majority of this
 ### Surfaces
 
  - Card
+ - ImageCard
  - Accordion
 
 ### Inputs
