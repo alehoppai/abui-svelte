@@ -26,8 +26,7 @@
 	h4,
 	h5,
 	h6 {
-		margin-block: 1rem;
-		@apply text-slate-900;
+		@apply text-slate-900 py-4 w-full;
 	}
 
 	.white {

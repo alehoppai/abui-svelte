@@ -26,7 +26,7 @@
 <Code>{'<Heading level="6" text="This is a header level 6" />'}</Code>
 
 <Heading level="4" text="API" />
-<div class="w-1/3">
+<div class="w-2/3">
 	<Table
 		data={{
 			headers: ['Property', 'Default Value', 'Description', 'Values'],
@@ -66,10 +66,10 @@
 
 <Text block>
 	To use available decorations you'll have to use separate components for them. This is Tailwind
-	limitation and we could nothing to do with this. <StrickeThrough>Crossed text</StrickeThrough> can
-	use every property simple inline text can use. Another decoration available is <Underline
-		weight="bold">Underline</Underline
-	> with same properties as simple inline text.
+	limitation and we could nothing to do with this.
+	<StrickeThrough>Crossed text</StrickeThrough> can use every property simple inline text can use.
+	Another decoration available is <Underline weight="bold">Underline</Underline> with same properties
+	as simple inline text.
 </Text>
 <Code
 	>{`<Text block>
@@ -83,7 +83,7 @@
 >
 
 <Heading level="4" text="API" />
-<div class="w-1/3">
+<div class="w-2/3">
 	<Table
 		data={{
 			headers: ['Property', 'Default Value', 'Description', 'Values'],

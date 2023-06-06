@@ -45,7 +45,7 @@
 	}
 
 	p {
-		margin-block: 0.5rem;
+		@apply w-full py-2;
 	}
 
 	.semibold {

@@ -4,24 +4,24 @@ Library for svelte based projects of ready-to-go UI components. This lib should 
 
 ## List of components
 
- - Text (Typography)
+- Text (Typography) ✔️
   - Heading
   - Text (inline & block)
   - Code
   - Underline
   - StrikeThrough
- - TextInput
- - Select
- - Checkbox
- - RadioGroup
- - Filter
- - Button
- - ButtonGroup
- - Card
- - Accordion
- - BreadCrubms
- - Alert
- - Masonry
- - DatePicker
- - Link
- - Table
+- TextInput
+- Select
+- Checkbox
+- RadioGroup
+- Filter
+- Button
+- ButtonGroup
+- Card
+- Accordion
+- BreadCrubms
+- Alert
+- Masonry
+- DatePicker
+- Link
+- Table ✔️
