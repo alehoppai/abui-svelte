@@ -1,51 +1,27 @@
 # AB UI (Svelte components library)
 
-Library for svelte based projects of ready-to-go UI components. Majority of this components are frequently used in my projects.
+Library for svelte based projects of ready-to-go UI components. This lib should be used in combination with tailwindcss or any custom tool for written layout. This library representes only very few components which I found useful in my svelte-kit/tailwindcss projects.
 
 ## List of components
 
-### Layout
-
- - Stack
- - Grid
- - Masonry
- - Box
-
-### Nav
-
- - Link
- - Breadcrumbs
- - Bottom Nav
- - Drawer
- - Tabs
-  
-### Data Display
-
- - Image
- - Icon (svelte-hero-icons)
- - Text (base typography compnent)
- - Tooltip
- - Table
-
-### Feedback
-
- - Notification (error, warn, info)
- - Modal
- - Progress
-
-### Surfaces
-
- - Card
- - ImageCard
- - Accordion
-
-### Inputs
-
- - Search & Filter (made of select and button)
- - Button
- - Button group (made of 3 buttons)
- - Checkbox
- - Radio Group
+ - Text (Typography)
+  - Heading
+  - Text (inline & block)
+  - Code
+  - Underline
+  - StrikeThrough
+ - TextInput
  - Select
- - Swich
- - TextField
+ - Checkbox
+ - RadioGroup
+ - Filter
+ - Button
+ - ButtonGroup
+ - Card
+ - Accordion
+ - BreadCrubms
+ - Alert
+ - Masonry
+ - DatePicker
+ - Link
+ - Table
